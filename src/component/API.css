@@ -1,0 +1,6 @@
+.addPokemon {
+    width: 130px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: hsl(197, 97%, 63%);
+  }

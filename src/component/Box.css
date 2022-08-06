@@ -1,0 +1,85 @@
+.box {
+  display: inline-block;
+  width: 200px;
+  margin: 10px auto;
+  border: 2px solid black;
+  background-color: hsl(175, 100%, 71%);
+  border-radius: 10px;
+}
+
+.flipClick {
+  border-radius: 80px;
+  border-width: 0px;
+  background-color: hsl(175, 100%, 71%);
+}
+
+.spacing {
+  width: 248px;
+  float:left;
+  background-color: hsl(0, 100%, 67%);
+}
+
+.type {
+  display: inline-block;
+  width: 110px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: hsla(34, 31%, 43%, 0.486);
+}
+[type-color="Fire"] {
+  background-color: rgb(255, 102, 0);
+}
+[type-color="Water"] {
+  background-color: rgb(100, 135, 250);
+}
+[type-color="Grass"] {
+  background-color: rgb(0, 255, 64);
+}
+[type-color="Electric"] {
+  background-color: rgb(255, 215, 37);
+}
+[type-color="Normal"] {
+  background-color: rgb(194, 188, 103);
+}
+[type-color="Ice"] {
+  background-color: rgb(0, 238, 255);
+}
+[type-color="Fighting"] {
+  background-color: rgb(148, 52, 45);
+}
+[type-color="Poison"] {
+  background-color: rgb(184, 29, 204);
+}
+[type-color="Ground"] {
+  background-color: rgb(243, 204, 96);
+}
+[type-color="Flying"] {
+  background-color: rgb(202, 154, 235);
+}
+[type-color="Psychic"] {
+  background-color: rgb(247, 101, 215);
+}
+[type-color="Bug"] {
+  background-color: rgb(174, 240, 144);
+}
+[type-color="Ghost"] {
+  background-color: rgb(181, 126, 218);
+}
+[type-color="Dark"] {
+  background-color: rgb(80, 55, 3);
+}
+[type-color="Dragon"] {
+  background-color: rgb(162, 0, 255);
+}
+[type-color="Steel"] {
+  background-color: rgb(102, 102, 102);
+}
+[type-color="Fairy"] {
+  background-color: rgb(245, 175, 233);
+}
+
+.image {
+  height: 150px;
+  width: 150px;
+}
